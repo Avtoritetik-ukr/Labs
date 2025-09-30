@@ -1,0 +1,14 @@
+D:\C#\New folder\Practical1\Task2\bin\Debug\net8.0\Task2.exe
+D:\C#\New folder\Practical1\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\C#\New folder\Practical1\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\C#\New folder\Practical1\Task2\bin\Debug\net8.0\Task2.dll
+D:\C#\New folder\Practical1\Task2\bin\Debug\net8.0\Task2.pdb
+D:\C#\New folder\Practical1\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\New folder\Practical1\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\C#\New folder\Practical1\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\C#\New folder\Practical1\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\C#\New folder\Practical1\Task2\obj\Debug\net8.0\Task2.dll
+D:\C#\New folder\Practical1\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\C#\New folder\Practical1\Task2\obj\Debug\net8.0\Task2.pdb
+D:\C#\New folder\Practical1\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\C#\New folder\Practical1\Task2\obj\Debug\net8.0\ref\Task2.dll
