@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\New folder\\Practical1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C04767D9-DC22-483B-97AA-D123FAF2463E}|Task4\\Task4.csproj|d:\\c#\\new folder\\practical1\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04767D9-DC22-483B-97AA-D123FAF2463E}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04767D9-DC22-483B-97AA-D123FAF2463E}|Task4\\Task4.csproj|d:\\c#\\new folder\\practical1\\task4\\task4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C04767D9-DC22-483B-97AA-D123FAF2463E}|Task4\\Task4.csproj|solutionrelative:task4\\task4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|d:\\c#\\new folder\\practical1\\practical1test\\task4_triangle_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|solutionrelative:practical1test\\task4_triangle_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|d:\\c#\\new folder\\practical1\\practical1test\\task3_ageclassification_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|solutionrelative:practical1test\\task3_ageclassification_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D514AB-101E-4FC5-96AF-8896D0E5F142}|Task3\\Task3.csproj|d:\\c#\\new folder\\practical1\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D514AB-101E-4FC5-96AF-8896D0E5F142}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|d:\\c#\\new folder\\practical1\\practical1test\\task5_studentgroups_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|solutionrelative:practical1test\\task5_studentgroups_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E176B0B-F55C-4F3D-A2F6-792F1F3AFFDA}|Task2\\Task2.csproj|d:\\c#\\new folder\\practical1\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E176B0B-F55C-4F3D-A2F6-792F1F3AFFDA}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|d:\\c#\\new folder\\practical1\\practical1test\\task2_arraycalculations_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|solutionrelative:practical1test\\task2_arraycalculations_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|d:\\c#\\new folder\\practical1\\practical1test\\task1_evennumber_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|solutionrelative:practical1test\\task1_evennumber_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5741AC-1722-49CD-B6A0-66BDFCF7C020}|Task5\\Task5.csproj|d:\\c#\\new folder\\practical1\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5741AC-1722-49CD-B6A0-66BDFCF7C020}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8EAB77-CE85-41CB-A5E7-D83186E67B41}|Task1\\Task1.csproj|d:\\c#\\new folder\\practical1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8EAB77-CE85-41CB-A5E7-D83186E67B41}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task4",
+              "DocumentMoniker": "D:\\C#\\New folder\\Practical1\\Task4\\Task4.csproj",
+              "RelativeDocumentMoniker": "Task4\\Task4.csproj",
+              "ToolTip": "D:\\C#\\New folder\\Practical1\\Task4\\Task4.csproj",
+              "RelativeToolTip": "Task4\\Task4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T17:33:05.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task4_Triangle_Tests.cs",
+              "DocumentMoniker": "D:\\C#\\New folder\\Practical1\\Practical1Test\\Task4_Triangle_Tests.cs",
+              "RelativeDocumentMoniker": "Practical1Test\\Task4_Triangle_Tests.cs",
+              "ToolTip": "D:\\C#\\New folder\\Practical1\\Practical1Test\\Task4_Triangle_Tests.cs",
+              "RelativeToolTip": "Practical1Test\\Task4_Triangle_Tests.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswDkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:17:53.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task3_AgeClassification_Tests.cs",
+              "DocumentMoniker": "D:\\C#\\New folder\\Practical1\\Practical1Test\\Task3_AgeClassification_Tests.cs",
+              "RelativeDocumentMoniker": "Practical1Test\\Task3_AgeClassification_Tests.cs",
+              "ToolTip": "D:\\C#\\New folder\\Practical1\\Practical1Test\\Task3_AgeClassification_Tests.cs",
+              "RelativeToolTip": "Practical1Test\\Task3_AgeClassification_Tests.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:12:38.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task5_StudentGroups_Tests.cs",
+              "DocumentMoniker": "D:\\C#\\New folder\\Practical1\\Practical1Test\\Task5_StudentGroups_Tests.cs",
+              "RelativeDocumentMoniker": "Practical1Test\\Task5_StudentGroups_Tests.cs",
+              "ToolTip": "D:\\C#\\New folder\\Practical1\\Practical1Test\\Task5_StudentGroups_Tests.cs",
+              "RelativeToolTip": "Practical1Test\\Task5_StudentGroups_Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:12:13.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task2_ArrayCalculations_Tests.cs",
+              "DocumentMoniker": "D:\\C#\\New folder\\Practical1\\Practical1Test\\Task2_ArrayCalculations_Tests.cs",
+              "RelativeDocumentMoniker": "Practical1Test\\Task2_ArrayCalculations_Tests.cs",
+              "ToolTip": "D:\\C#\\New folder\\Practical1\\Practical1Test\\Task2_ArrayCalculations_Tests.cs",
+              "RelativeToolTip": "Practical1Test\\Task2_ArrayCalculations_Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:04:38.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\New folder\\Practical1\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "D:\\C#\\New folder\\Practical1\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:07:17.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\New folder\\Practical1\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "D:\\C#\\New folder\\Practical1\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:07:34.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task1_EvenNumber_Tests.cs",
+              "DocumentMoniker": "D:\\C#\\New folder\\Practical1\\Practical1Test\\Task1_EvenNumber_Tests.cs",
+              "RelativeDocumentMoniker": "Practical1Test\\Task1_EvenNumber_Tests.cs",
+              "ToolTip": "D:\\C#\\New folder\\Practical1\\Practical1Test\\Task1_EvenNumber_Tests.cs",
+              "RelativeToolTip": "Practical1Test\\Task1_EvenNumber_Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:29:40.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\New folder\\Practical1\\Task5\\Program.cs",
+              "RelativeDocumentMoniker": "Task5\\Program.cs",
+              "ToolTip": "D:\\C#\\New folder\\Practical1\\Task5\\Program.cs",
+              "RelativeToolTip": "Task5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:07:46.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\New folder\\Practical1\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "D:\\C#\\New folder\\Practical1\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:36:55.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\New folder\\Practical1\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "D:\\C#\\New folder\\Practical1\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:06:47.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
