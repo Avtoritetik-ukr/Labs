@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\New folder\\HospitalManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE671E4F-3CF2-4BCE-A3CB-D68E1259E9C3}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\c#\\new folder\\hospitalmanagementsystem\\hospitalmanagementsystem\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE671E4F-3CF2-4BCE-A3CB-D68E1259E9C3}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE671E4F-3CF2-4BCE-A3CB-D68E1259E9C3}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\c#\\new folder\\hospitalmanagementsystem\\hospitalmanagementsystem\\hospitaldemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE671E4F-3CF2-4BCE-A3CB-D68E1259E9C3}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\hospitaldemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE671E4F-3CF2-4BCE-A3CB-D68E1259E9C3}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\c#\\new folder\\hospitalmanagementsystem\\hospitalmanagementsystem\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE671E4F-3CF2-4BCE-A3CB-D68E1259E9C3}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE671E4F-3CF2-4BCE-A3CB-D68E1259E9C3}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\c#\\new folder\\hospitalmanagementsystem\\hospitalmanagementsystem\\hospitalroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE671E4F-3CF2-4BCE-A3CB-D68E1259E9C3}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\hospitalroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE671E4F-3CF2-4BCE-A3CB-D68E1259E9C3}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\c#\\new folder\\hospitalmanagementsystem\\hospitalmanagementsystem\\medicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE671E4F-3CF2-4BCE-A3CB-D68E1259E9C3}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\medicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE671E4F-3CF2-4BCE-A3CB-D68E1259E9C3}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\c#\\new folder\\hospitalmanagementsystem\\hospitalmanagementsystem\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE671E4F-3CF2-4BCE-A3CB-D68E1259E9C3}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE671E4F-3CF2-4BCE-A3CB-D68E1259E9C3}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\c#\\new folder\\hospitalmanagementsystem\\hospitalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE671E4F-3CF2-4BCE-A3CB-D68E1259E9C3}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospitalDemo.cs",
+              "DocumentMoniker": "D:\\C#\\New folder\\HospitalManagementSystem\\HospitalManagementSystem\\HospitalDemo.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\HospitalDemo.cs",
+              "ToolTip": "D:\\C#\\New folder\\HospitalManagementSystem\\HospitalManagementSystem\\HospitalDemo.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\HospitalDemo.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:58:04.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "D:\\C#\\New folder\\HospitalManagementSystem\\HospitalManagementSystem\\Hospital.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Hospital.cs",
+              "ToolTip": "D:\\C#\\New folder\\HospitalManagementSystem\\HospitalManagementSystem\\Hospital.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Hospital.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:53:36.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\C#\\New folder\\HospitalManagementSystem\\HospitalManagementSystem\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Doctor.cs",
+              "ToolTip": "D:\\C#\\New folder\\HospitalManagementSystem\\HospitalManagementSystem\\Doctor.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:51:30.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HospitalRoom.cs",
+              "DocumentMoniker": "D:\\C#\\New folder\\HospitalManagementSystem\\HospitalManagementSystem\\HospitalRoom.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\HospitalRoom.cs",
+              "ToolTip": "D:\\C#\\New folder\\HospitalManagementSystem\\HospitalManagementSystem\\HospitalRoom.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\HospitalRoom.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:48:28.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MedicalRecords.cs",
+              "DocumentMoniker": "D:\\C#\\New folder\\HospitalManagementSystem\\HospitalManagementSystem\\MedicalRecords.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\MedicalRecords.cs",
+              "ToolTip": "D:\\C#\\New folder\\HospitalManagementSystem\\HospitalManagementSystem\\MedicalRecords.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\MedicalRecords.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:44:59.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\C#\\New folder\\HospitalManagementSystem\\HospitalManagementSystem\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Patient.cs",
+              "ToolTip": "D:\\C#\\New folder\\HospitalManagementSystem\\HospitalManagementSystem\\Patient.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Patient.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:43:10.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\New folder\\HospitalManagementSystem\\HospitalManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Program.cs",
+              "ToolTip": "D:\\C#\\New folder\\HospitalManagementSystem\\HospitalManagementSystem\\Program.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:10:23.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
