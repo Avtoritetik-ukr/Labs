@@ -6,9 +6,10 @@ namespace Restaurant
 {
     public interface Manager
     {
+        void MarkOrderAsReady(int orderId);
         void ShowMenu();
         void CreateOrder(int tableNumber);
-        void AddItemToOrder(int orderId, string itemName);
+        void AddItemToOrder(int orderId, int ItemID);
         void CloseOrder(int orderId);
         void ShowAllOrders();
     }

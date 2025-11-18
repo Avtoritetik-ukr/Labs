@@ -39,11 +39,11 @@ namespace Restaurant
             {
                 if (item is Drink drink)
                 {
-                    Console.WriteLine($"Drink: {drink.Name}({drink.VolumeInLiters}L)- {drink.Price}");
+                    Console.WriteLine($"Drink: {drink.Name}({drink.VolumeInLiters}L)—— {drink.Price}grn");
                 }    
                 else if (item is Dish dish)
                 {
-                    Console.WriteLine($"Dish: {dish.Name} ({dish.WeithInGrams}g)-{dish.Price}");
+                    Console.WriteLine($"Dish: {dish.Name} ({dish.WeithInGrams}g)—— {dish.Price}grn");
                 }
                 else
                 {

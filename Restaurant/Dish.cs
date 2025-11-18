@@ -13,7 +13,7 @@ namespace Restaurant
         }
         public override string GetDescription()
         {
-            return $"Dish {Name}({WeithInGrams}g)-{Price} grn";
+            return $"Dish {Name}({WeithInGrams}g)-{Price}grn";
         }
     }
 }

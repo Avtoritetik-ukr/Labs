@@ -6,8 +6,8 @@ namespace Restaurant
 {
     public class Restaurant : Manager
     {
-        public List<Menu> menu = new List<Menu>();
-        public List<Order> orders = new List<Order>();
+        private List<Menu> menu = new List<Menu>();
+        private List<Order> orders = new List<Order>();
         public Restaurant()
         {
             menu.Add(new Dish("Pasta", 120, 250));
@@ -21,6 +21,7 @@ namespace Restaurant
             Console.WriteLine("---- Menu ----");
             foreach (var item in menu)
             {
+                Console.WriteLine($"[{item.ID}]");
                 Console.WriteLine(item.GetDescription());
             }
             Console.WriteLine("--------------\n");
@@ -31,7 +32,7 @@ namespace Restaurant
             orders.Add(order);
             Console.WriteLine($"Created Order #{order.Id}.");
         }
-        public void AddItemToOrder(int orderId, string itemName)
+        public void AddItemToOrder(int orderId, int ItemID)
         {
             Order foundOrder = null;
             foreach (var order in orders)
@@ -45,7 +46,7 @@ namespace Restaurant
             Menu foundItem = null;
             foreach (var item in menu)
             {
-                if (item.Name.ToLower() == itemName.ToLower())
+                if (item.ID == ItemID)
                 {
                     foundItem = item;
                     break;
@@ -53,6 +54,11 @@ namespace Restaurant
             }
             if (foundOrder != null && foundItem != null)
             {
+                if (foundOrder.Status == Status.Paid)
+                {
+                    Console.WriteLine("Cannot add items to a paid order.");
+                    return;
+                }
                 foundOrder.AddItem(foundItem);
                 if (foundOrder.Status == Status.New)
                 {
@@ -61,7 +67,43 @@ namespace Restaurant
             }
             else
             {
-                Console.WriteLine("Order or item not found.");
+                Console.WriteLine("Order or item ID not found.");
+            }
+        }
+        public void MarkOrderAsReady(int orderID)
+        {
+            Order foundOrder = null;
+            foreach (var order in orders)
+            {
+                if (order.Id == orderID)
+                {
+                    foundOrder = order;
+                    break;
+                }
+            }
+            if (foundOrder != null)
+            {
+                if (foundOrder.Status == Status.Cooking)
+                {
+                    foundOrder.Status = Status.Ready;
+                    Console.WriteLine($"Order #{foundOrder.Id} is now ready.");
+                }
+                else if (foundOrder.Status == Status.Ready)
+                {
+                    Console.WriteLine($"Order #{foundOrder.Id} is ready");
+                }
+                else if (foundOrder.Status == Status.Paid)
+                {
+                    Console.WriteLine($"Order #{foundOrder.Id} is paid");
+                }
+                else
+                {
+                    Console.WriteLine("Error");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Order not found");
             }
         }
         public void CloseOrder(int orderId)
@@ -87,10 +129,19 @@ namespace Restaurant
         }
         public void ShowAllOrders()
         {
+            bool foundActive = false;
             Console.WriteLine("---- Active Orders ----");
             foreach (var order in orders)
             {
-                order.PrintOrder();
+                if (order.Status != Status.Paid)
+                {
+                    order.PrintOrder();
+                    foundActive = true;
+                }
+            }
+            if (!foundActive)
+            {
+                Console.WriteLine("No active orders.");
             }
         }
     }
