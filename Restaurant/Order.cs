@@ -45,10 +45,6 @@ namespace Restaurant
                 {
                     Console.WriteLine($"Dish: {dish.Name} ({dish.WeithInGrams}g)—— {dish.Price}grn");
                 }
-                else
-                {
-                    Console.WriteLine($"{item.Name}-{item.Price}");
-                }
             }
             Console.WriteLine($"Amount due: {CalculateTotal()}grn.\n");
         }

@@ -4,7 +4,7 @@
     {
         static void Main(string[] agrs)
         {
-            Manager restaurant = new Restaurant();
+            IManager restaurant = new Restaurant();
             bool isRunning = true;
             while (isRunning)
             {
@@ -16,7 +16,7 @@
                 Console.WriteLine("5. Mark Order as Ready");
                 Console.WriteLine("6. Pay & Close Order");
                 Console.WriteLine("0. Exit");
-                string choice = Console.ReadLine();
+                string choice = Console.ReadLine()!;
 
                 switch (choice)
                 {
@@ -25,14 +25,14 @@
                         break;
                     case "2":
                         Console.Write("Enter Table Number: ");
-                        int table = int.Parse(Console.ReadLine());
+                        int table = int.Parse(Console.ReadLine()!);
                         restaurant.CreateOrder(table);
                         break;
                     case "3":
                         Console.Write("Enter Order ID: ");
-                        int oId = int.Parse(Console.ReadLine());
+                        int oId = int.Parse(Console.ReadLine()!);
                         Console.Write("Enter Dis ID: ");
-                        int itemID = int.Parse(Console.ReadLine());
+                        int itemID = int.Parse(Console.ReadLine()!);
                         restaurant.AddItemToOrder(oId, itemID);
                         break;
                     case "4":
@@ -40,12 +40,12 @@
                         break;
                     case "5":
                         Console.Write("Enter Order ID to mark Ready: ");
-                        int readyID = int.Parse(Console.ReadLine());
+                        int readyID = int.Parse(Console.ReadLine()!);
                         restaurant.MarkOrderAsReady(readyID);
                         break;
                     case "6":
                         Console.Write("Enter Order ID to close: ");
-                        int cId = int.Parse(Console.ReadLine());
+                        int cId = int.Parse(Console.ReadLine()!);
                         restaurant.CloseOrder(cId);
                         break;
                     case "0":

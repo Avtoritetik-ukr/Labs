@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Restaurant
 {
-    public class Restaurant : Manager
+    public class Restaurant : IManager
     {
         private List<Menu> menu = new List<Menu>();
         private List<Order> orders = new List<Order>();
@@ -34,7 +34,7 @@ namespace Restaurant
         }
         public void AddItemToOrder(int orderId, int ItemID)
         {
-            Order foundOrder = null;
+            Order? foundOrder = null;
             foreach (var order in orders)
             {
                 if (order.Id == orderId)
@@ -43,7 +43,7 @@ namespace Restaurant
                     break;
                 }
             }
-            Menu foundItem = null;
+            Menu? foundItem = null;
             foreach (var item in menu)
             {
                 if (item.ID == ItemID)
@@ -67,12 +67,12 @@ namespace Restaurant
             }
             else
             {
-                Console.WriteLine("Order or item ID not found.");
+                Console.WriteLine("Order or Dish/Drink ID not found.");
             }
         }
         public void MarkOrderAsReady(int orderID)
         {
-            Order foundOrder = null;
+            Order? foundOrder = null;
             foreach (var order in orders)
             {
                 if (order.Id == orderID)
@@ -108,7 +108,7 @@ namespace Restaurant
         }
         public void CloseOrder(int orderId)
         {
-            Order foundOrder = null;
+            Order? foundOrder = null;
             foreach (var order in orders)
             {
                 if (order.Id == orderId)
